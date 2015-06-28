@@ -1,6 +1,6 @@
 # CLAide Completion Changelog
 
-## Master
+## 1.0.0
 
 * Initial port from Fabio's original CLAide code.  
   [Fabio Pelosin](https://github.com/fabiopelosin)
