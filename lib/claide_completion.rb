@@ -7,7 +7,7 @@ module CLAideCompletion
         '--completion-script', 'Print the auto-completion script'
       ]
     end
-    mod.prepend(Prepend)
+    mod.send(:prepend, Prepend)
   end
 
   module Prepend
