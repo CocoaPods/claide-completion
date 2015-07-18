@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version  = CLAideCompletion::VERSION
   s.license  = "MIT"
   s.email    = ["fabiopelosin@gmail.com"]
-  s.homepage = "https://github.com/CocoaPods/CLAide"
+  s.homepage = "https://github.com/CocoaPods/claide-completion"
   s.authors  = ["Fabio Pelosin"]
 
   s.summary  = "CLI completion plugin for CLAide."
