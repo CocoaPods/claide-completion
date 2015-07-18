@@ -1,6 +1,6 @@
 # CLAide Completion Changelog
 
-## Master
+## 1.0.1
 
 ##### Bug Fixes
 
