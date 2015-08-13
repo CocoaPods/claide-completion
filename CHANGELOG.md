@@ -1,5 +1,13 @@
 # CLAide Completion Changelog
 
+## Master
+
+##### Bug Fixes
+
+* Don't have warnings printed when the list of loaded CLAide specs is queried.  
+  [Samuel Giddins](https://github.com/segiddins)
+
+
 ## 1.0.1
 
 ##### Bug Fixes
